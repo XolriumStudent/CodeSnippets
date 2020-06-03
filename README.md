@@ -1,2 +1,2 @@
 # CodeSnippets
-Extra snippets for sollicitation blah blah
+Extra snippets for sollicitation
